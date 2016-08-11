@@ -68,4 +68,4 @@ I decided not to use sass or less for setup reasons, just not to give you any mo
 ## Table of Contents
 * [Install](docs/Install.md)
 * [Dev/Prod Server/Build](docs/Build.md)
-* [Acceptance/Unit test](docs/Tests.md)
+* [Acceptance/Unit test](docs/Test.md)
