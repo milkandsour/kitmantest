@@ -6,17 +6,13 @@ One of the recent applications I am particularly proud of - although it has made
 
 # Kitman Labs test Question 2
 
-I am a Martin Flower follower... lets say the truth, he is cool and he know a lot of things! 
-I can honestly say that he always know how to be interesting, even in boring context as system engineer stuff...just joking. 
+I am a follower of Martin Flower... let's be honest, he is cool and he knows a lot of things! I can honestly say that he always knows how to be interesting, even in a boring context such as system engineering... just kidding.
 
-Altough the last thing I really understood from him dates back to 2011, 
-now I'm trying to grasp one that talks about refactoring to an adaptive model. 
-I would like to explain it in a few words, but I would certainly use more than him and I would be 100% less clear, 
-so I just give you the link:
+Although one of his latest articles that I was able to understand dates back to 2011, I am now trying to deal with a paper that talks about refactoring to an adaptive model. I would love to be able explain it in a few words, but I am sure I would use more words than him and I certainly would be 100% less clear, so I'll just give you the link:
 
 http://www.martinfowler.com/articles/refactoring-adaptive-model.html
 
-Despite being old, I have discovered it just few days ago.
+Despite being old, I have discovered it just a few days ago.
 
 # Kitman Labs test Question 3
 
