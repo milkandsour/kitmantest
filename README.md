@@ -1,13 +1,8 @@
 # Kitman Labs test Question 1
 
-In theory, I am quite proud of almost any application I wrote from scratch, 
-those in which I had the possibility to express myself, my creativity, 
-the same applications that I would still like to rewrite, because there is always a room for improvement 
-since the perfection does not exist.
+I am quite proud of almost any applications I wrote from scratch, especially of those in which I had the possibility to express myself and my creativity, although they are often the same applications that I would still like to rewrite once I look back at my code, because there is always room for improvement since perfection does not exist.
 
-It was particularly pleasing, although it has made me suffer and not the least, 
-the feeling I felt when I finished the application that I wrote to dramatically speed up the PaddyPower login.
-The most satisfaction has been to see the smile of my principal and understand that I had earned the trust he lent me for this solo project
+One of the recent applications I am particularly proud of - although it has made me suffer quite a bit - was the PaddyPower login application. Using a different technology from the one that had been peviously used I managed to dramatically speed it up and boost its performance. The thing that made me particularly proud was has seing a big smile on my principal's face and understanding that I had just deserved the trust he gave me when he put me in charge of this solo project.
 
 # Kitman Labs test Question 2
 
