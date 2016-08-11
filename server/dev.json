@@ -1,0 +1,14 @@
+{"apps": [{
+	"name"              : "server",
+	"script"            : "server/server.js",
+	"error_file"        : "server/logs/err.log",
+	"out_file"          : "server/logs/out.log",
+	"merge_logs"        : true
+},{
+	"name"              : "dev",
+	"script"            : "./node_modules/webpack/bin/webpack.js",
+	"args"							: ["--watch"],
+	"error_file"        : "server/logs/dev.log",
+	"out_file"          : "server/logs/dev.log",
+	"merge_logs"        : true
+}]}

@@ -1,0 +1,14 @@
+{"apps": [{
+	"name"              : "server",
+	"script"            : "server/server.js",
+	"error_file"        : "server/logs/err.log",
+	"out_file"          : "server/logs/out.log",
+	"merge_logs"        : true
+},{
+	"name"              : "prod",
+	"script"            : "./node_modules/webpack/bin/webpack.js",
+	"args"							: ["-p"],
+	"error_file"        : "server/logs/prod.log",
+	"out_file"          : "server/logs/prod.log",
+	"merge_logs"        : true
+}]}
